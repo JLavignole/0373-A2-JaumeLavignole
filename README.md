@@ -23,7 +23,7 @@
 
    <code style="color : red">HTPL és un lenguaje de marcado estándar que sirve de referencia del software que interactúa con la elaboración de páginas web en sus diferentes versiones.</code>
 
- **Estructura HTML**
+   **Estructura HTML**
 
    ! [Estructura de HTPL](/C:/Users/Usuario/Pictures/Screenshots/Estructura HTML.png)
 
