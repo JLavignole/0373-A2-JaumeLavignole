@@ -3,11 +3,11 @@
 
 1. ¿Qué es una página web?
 
-   <code style="color : red">Una página web es un conjunto de información que está en el WorldWid Wep, es decir, es un documento electrónico de texto o contenido visual que es accesible a través de internet</code>
+   <code style="color : red">Una página web es un conjunto de información que está en el WorldWid Wep, es decir, es un documento electrónico de texto o contenido visual que es accesible a través de internet.</code>
 
 2. ¿Qué es un servidor web?
 
-   <code style="color : red">Un servidor web es un programa informático que procesa una aplicación realizando conexiones en dos direciones o en una sola dirección, sincronizadas o desincronizadas con el cliente</code>
+   <code style="color : red">Un servidor web es un programa informático que procesa una aplicación realizando conexiones en dos direciones o en una sola dirección, sincronizadas o desincronizadas con el cliente.</code>
 
 3. ¿Qué son los lenguages de marcas? ¿Cuántos conoces?
    
@@ -21,11 +21,9 @@
 
 4. ¿Qué es el HTPL? ¿Sabes cómo se estructura?
 
-   <code style="color : red">HTPL és un lenguaje de marcado estándar que sirve de referencia del software que interactúa con la elaboración de páginas web en sus diferentes versiones</code>
+   <code style="color : red">HTPL és un lenguaje de marcado estándar que sirve de referencia del software que interactúa con la elaboración de páginas web en sus diferentes versiones.</code>
 
-   **Estructura HTML**
-
-   - <code style="color : red">(<!DOCTYPE html>): se utiliza para indicar la versión HTML 5.0 (la usada actualmente).</code> 
+ **Estructura HTML**
 
    ! [Estructura de HTPL](/C:/Users/Usuario/Pictures/Screenshots/Estructura HTML.png)
 
