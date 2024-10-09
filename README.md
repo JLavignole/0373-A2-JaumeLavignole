@@ -27,4 +27,14 @@
 
    ! [Estructura de HTPL](/C:/Users/Usuario/Pictures/Screenshots/Estructura HTML.png)
 
-6.
+5. ¿Qué es CSS?
+
+   <code style="color : red">Es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita.</code>
+
+6. ¿Sabes cómo funciona un navegador web?
+
+    <code style="color : red">El navegador interpreta el código, HTML generalmente, en el que está escrita la página web y lo presenta en pantalla permitiendo al usuario interactuar con su contenido y navegar.</code>
+
+    **Navegador Web**
+
+   ! [Funcionalidad Navegador Web]("C:\Users\Usuario\Pictures\Screenshots\Proceso Navegador Web.png")
