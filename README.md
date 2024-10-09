@@ -18,3 +18,10 @@
 | Marcado de Presentación     | [Marcado de Presentación](https://www.bibliopos.es/Biblion-A2-Biblioteconomia/10Lenguajes-de-marcado.pdf)  |
 | Marcado de Procedimientos   | [Marcado de Procedimientos](https://es.wikipedia.org/wiki/Lenguaje_de_marcado)                             |
 | Marcado Descriptivo         | [Marcado Descriptivo](https://cv.uoc.edu/UOC/a/moduls/90/90_225/web/main/m1/v4_1.html)                     |
+
+4. ¿Qué es el HTPL? ¿Sabes cómo se estructura?
+
+   <code style="color : red">HTPL és un lenguaje de marcado estándar que sirve de referencia del software que interactúa con la elaboración de páginas web en sus diferentes versiones</code>
+
+   
+   ![Estructura de HTPL](C:\Users\Usuario\Pictures\Screenshots\Estructura HTML.png)
