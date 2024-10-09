@@ -25,7 +25,7 @@
 
    **Estructura HTML**
 
-   - <code style="color : red"> (<!DOCTYPE html>): se utiliza para indicar la versión HTML 5.0 (la usada actualmente). </code> 
+   - <code style="color : red">(<!DOCTYPE html>): se utiliza para indicar la versión HTML 5.0 (la usada actualmente).</code> 
 
    ! [Estructura de HTPL](/C:/Users/Usuario/Pictures/Screenshots/Estructura HTML.png)
 
