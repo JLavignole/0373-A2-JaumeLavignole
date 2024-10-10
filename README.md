@@ -22,11 +22,22 @@
 4. ¿Qué es el HTPL? ¿Sabes cómo se estructura?
 
    <code style="color : red">HTPL és un lenguaje de marcado estándar que sirve de referencia del software que interactúa con la elaboración de páginas web en sus diferentes versiones.</code>
+   
+   **Estructura HTLM***
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta hhtp-equiv="X-UA-Compatible" content="IE-edge">
+   <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   </head>
+   <body>
 
-   **Estructura HTML**
-
-   ! [Estructura de HTPL](/C:/Users/Usuario/Pictures/Screenshots/Estructura HTML.png)
-
+   </body>
+   </html>
+```
 5. ¿Qué es CSS?
 
    <code style="color : red">Es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita.</code>
@@ -37,4 +48,4 @@
 
     **Navegador Web**
 
-   ! [Funcionalidad Navegador Web]("C:\Users\Usuario\Pictures\Screenshots\Proceso Navegador Web.png")
+   ![Esquema](https://github.com/JLavignole/0373-A2-JaumeLavignole/blob/main/Proceso%20Navegador%20Web.png?raw=true "ImágenEsquema")
